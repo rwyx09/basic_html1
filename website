@@ -1,0 +1,23 @@
+<DOCTYPE html>
+	<html>
+		<head>
+			<title>H2 Computing is Cool</title>
+			<meta charset="utf-8">	
+			<style>
+				body{
+					background-color: black;
+					color: gold;
+					font-family: "Segoe UI";
+				}
+				
+			</style>
+		</head>
+		
+		<body>
+			<h1>I Love H2 Computing</h1>
+			<p>I am Max Verstappen</p>
+			<img src="leadcolour.png" alt="Handsome Guy" width ="200px">
+			<br>
+			<a href="file:///C:/DigitalPortfolio/aindex.html">Visit our site</a>
+		</body>
+	</html>
